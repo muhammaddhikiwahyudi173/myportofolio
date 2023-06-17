@@ -1,0 +1,68 @@
+body {
+  background-color: bisque;
+}
+
+.poto {
+  border-radius: 200px;
+  width: 250px;
+  height: 250px;
+  float: right;
+}
+.ig img {
+  width: 10%;
+}
+.ig img:last-of-type {
+  float: right;
+  margin-right: 50%;
+  margin-top: -11%;
+}
+#github {
+  text-align: center;
+}
+
+hr {
+  height: 10px;
+  background-color: black;
+  border-radius: 15px;
+}
+
+.ig a:first-of-type {
+  margin-left: 3%;
+  font-weight: bold;
+  font-size: 100%;
+}
+.ig a:last-of-type {
+  margin-left: 34%;
+  font-weight: bold;
+}
+.namabesar {
+  color: blue;
+  font-style: italic;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 50px;
+}
+.diri {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  font-weight: bold;
+}
+.alasan {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: blue;
+  font-style: italic;
+  text-decoration: underline;
+}
+.bagianalasan {
+  text-align: left;
+  font-weight: bold;
+}
+.sosial {
+  text-align: center;
+}
+.portofolio {
+  color: royalblue;
+  text-align: center;
+  text-shadow: 15px;
+  text-decoration: underline;
+  font-size: 150%;
+}
